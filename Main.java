@@ -17,7 +17,7 @@ public class Main
         panel.setSize(d);
         frame.add(panel);
 
-        JTextArea text=new JTextArea(16,48);
+        JTextArea text=new JTextArea(16,47);
         text.setSize(575, 400);
         text.setBounds(10, 30, 575, 400);
         text.setFont(new Font("SansSerif", Font.PLAIN,15));
